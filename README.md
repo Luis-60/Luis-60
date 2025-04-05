@@ -1,16 +1,45 @@
-## Hi there 👋
+# Welcome to my profile!
 
-<!--
-**Luis-60/Luis-60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### It's a pleasure to see you there, I'm a full stack beginner developer, working with development since 2025, graduating in software's engineer on Associação Educacional Dom Bosco in my third year. Always trying to learn something. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🔧&nbsp; Development Tools
+
+<div style="display: inline_block"><br />
+ 
+<img  align="center" alt="Visual Sudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+ <img  align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+ <img  align="center" alt="VS Code" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+ <img  align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+ <img  align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img  align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
+ <img  align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img  align="center" alt="Postgresql" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
+  <img  align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img  align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+  <img  align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+  <img  align="center" alt="Dotnet" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
+  <img  align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+  <img  align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
+
+  
+</div>
+<br/>
+
+
+## 🛠️ &nbsp; My activity 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-60&show_icons=true&theme=radical)
+
+## 💻 &nbsp;My Programming Languages Graphic
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-60)](https://github.com/Luis-60/github-readme-stats)
+
+## 🏠 &nbsp; Where to find me:
+
+
+</div>
+<br/>
+

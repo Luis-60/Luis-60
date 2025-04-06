@@ -9,15 +9,15 @@
 
 <div style="display: inline_block"><br />
  
-<img  align="center" alt="Visual Sudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
- <img  align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
- <img  align="center" alt="VS Code" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
- <img  align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
- <img  align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img  align="center" alt="Visual Sudio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white">
+ <img  align="center" alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
+ <img  align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+ <img  align="center" alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
+ <img  align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
  <img  align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
- <img  align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <img  align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
   <img  align="center" alt="Postgresql" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
-  <img  align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img  align="center" alt="SQL Server" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white">
   <img  align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
   <img  align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
   <img  align="center" alt="Dotnet" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">

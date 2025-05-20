@@ -41,7 +41,7 @@
 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/luis_carlos60)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/luis-carlos-gon%C3%A7alves-hayashida-ferreira-da-costa-896303272/)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/luis-carlos-gon%C3%A7alves-hayashida-ferreira-da-costa-896303272/)
 
 
 </div>

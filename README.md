@@ -38,6 +38,11 @@
   <img  align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
   <img  align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
 
+ ### Operational Systems
+
+  <img  align="center" alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white">
+  <img  align="center" alt="ZorinOs" src="https://img.shields.io/badge/Zorin%20OS-15A6F0?style=flat&logo=zorin&logoColor=white">
+  <img  align="center" alt="Artix Linux" src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=flat&logo=artix-linux&logoColor=white">
   
 </div>
 <br/>
@@ -53,8 +58,8 @@
 
 ## 🏠 &nbsp; Where to find me:
 
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/luis_carlos60)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/luis-carlos-gon%C3%A7alves-hayashida-ferreira-da-costa-896303272/)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/luis_carlos60)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-carlos-gon%C3%A7alves-hayashida-ferreira-da-costa-896303272/)
 
 
 </div>

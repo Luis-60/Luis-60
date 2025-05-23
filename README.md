@@ -8,7 +8,6 @@
 ## 🔧&nbsp; Development Tools
 
 <div style="display: inline_block"><br />
- 
  ### Programming Languages
  <img  align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
  <img  align="center" alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">

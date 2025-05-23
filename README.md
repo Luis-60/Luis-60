@@ -9,20 +9,33 @@
 
 <div style="display: inline_block"><br />
  
-<img  align="center" alt="Visual Sudio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white">
- <img  align="center" alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
+ ### Programming Languages
  <img  align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
  <img  align="center" alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
  <img  align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
  <img  align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
  <img  align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+
+ ### Databases
+ 
   <img  align="center" alt="Postgresql" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
   <img  align="center" alt="SQL Server" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white">
   <img  align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
-  <img  align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+
+ ### UI/UX
+ 
+ <img  align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+
+ ### Programming Tools
+ 
+ <img  align="center" alt="Visual Sudio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white">
+ <img  align="center" alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
+ <img  align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+
+ ### Frameworks
   <img  align="center" alt="Dotnet" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
-  <img  align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
   <img  align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
+  <img  align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
 
   
 </div>

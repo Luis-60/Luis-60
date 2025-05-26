@@ -60,6 +60,8 @@
 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/luis_carlos60)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-carlos-gon%C3%A7alves-hayashida-ferreira-da-costa-896303272/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luiscarlosghfc@gmail.com)
+
 
 
 </div>

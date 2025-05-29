@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-### It's a pleasure to see you there, I'm a full stack beginner developer, working with development since 2025, graduating in software's engineer on Associação Educacional Dom Bosco in my third year. Always trying to learn something. 
+### It's a pleasure to see you there, I'm a full stack beginner developer, working with development since 2025, graduating in software's engineer on Associação Educacional Dom Bosco in my third year. Always trying to learn something. By now, I'm just trying all that I can.
 
 
 <br>

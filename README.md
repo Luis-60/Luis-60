@@ -64,7 +64,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-carlos-gon%C3%A7alves-hayashida-ferreira-da-costa-896303272/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luiscarlosghfc@gmail.com)
 
-a
 
 </div>
 <br/>

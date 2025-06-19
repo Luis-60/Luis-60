@@ -38,7 +38,8 @@
   <img  align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
   <img  align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
   <img  align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
-  
+  <img  align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+
 
  ### Operational Systems
 
@@ -56,7 +57,7 @@
 
 ## 💻 &nbsp;My Programming Languages Graphic
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-60)](https://github.com/Luis-60/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-60&theme=dracula)](https://github.com/Luis-60/github-readme-stats)
 
 ## 🏠 &nbsp; Where to find me:
 

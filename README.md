@@ -33,12 +33,14 @@
  <img  align="center" alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
  <img  align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
 
- ### Frameworks
+ ### Frameworks and Libraries
+ 
   <img  align="center" alt="Dotnet" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
   <img  align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
   <img  align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
   <img  align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
   <img  align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+  <img  align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
 
 
  ### Operational Systems

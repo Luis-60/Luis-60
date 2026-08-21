@@ -95,11 +95,10 @@ A full-stack application focused on financial and business management.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-60&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-60&layout=compact&theme=dracula&hide_border=true"/>
-
+  
+<img src="https://ghstats.dev/api/card?username=Luis-60" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/sparkline?username=Luis-60&days=30&width=320&height=80" alt="Contribution Sparkline" />
+  
 </div>
 
 ---

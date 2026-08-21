@@ -1,73 +1,130 @@
-# Welcome to my profile!
+# 👋 Hey, I'm Luís!
 
-### It's a pleasure to see you there, I'm a full stack beginner developer, working with development since 2025, graduating in software's engineer on Associação Educacional Dom Bosco in my third year. Always trying to learn something. By now, I'm just trying all that I can.
+**Full Stack Developer • Software Engineering Student • Linux enthusiast**
 
+I'm a developer from Brazil who enjoys building things, breaking them, and figuring out why they broke.
 
-<br>
+I've been working with software development since **2025**, currently studying **Software Engineering at Associação Educacional Dom Bosco**.
 
-## 🔧&nbsp; Development Tools
-<div style="display: inline_block">
- 
- ### Programming Languages
- 
- <img  align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
- <img  align="center" alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
- <img  align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
- <img  align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
- <img  align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
- <img  align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+My main interests are **full-stack development, backend architecture, Linux, cloud infrastructure, and automation**.
 
- ### Databases
- 
-  <img  align="center" alt="Postgresql" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
-  <img  align="center" alt="SQL Server" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white">
-  <img  align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+> *"If it works, don't touch it."*
+> — famous last words before touching it anyway.
 
- ### UI/UX
- 
- <img  align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+---
 
- ### Programming Tools
- 
- <img  align="center" alt="Visual Sudio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white">
- <img  align="center" alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
- <img  align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+## 🚀 What I'm working with
 
- ### Frameworks and Libraries
- 
-  <img  align="center" alt="Dotnet" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
-  <img  align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
-  <img  align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
-  <img  align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
-  <img  align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
-  <img  align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
+```text
+Frontend        React · Next.js · Tailwind CSS
+Backend         Node.js · Spring Boot · .NET · Laravel
+Languages       JavaScript · TypeScript · Java · C# · PHP · Python
+Databases       PostgreSQL · MySQL · SQL Server · MongoDB
+Infrastructure  Linux · Docker · AWS · Azure · Nginx
+Tools           Git · GitHub · VS Code · Figma
+```
 
+---
 
- ### Operational Systems
+## 🧠 Currently learning
 
-  <img  align="center" alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white">
-  <img  align="center" alt="ZorinOs" src="https://img.shields.io/badge/Zorin%20OS-15A6F0?style=flat&logo=zorin&logoColor=white">
-  <img  align="center" alt="Artix Linux" src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=flat&logo=artix-linux&logoColor=white">
-  
+I'm especially interested in going beyond simply writing application code.
+
+* ☁️ Cloud infrastructure & deployment
+* 🐳 Docker & containerization
+* 🔐 Application security
+* 🏗️ Backend architecture
+* ⚙️ CI/CD & automation
+* 🐧 Linux & system administration
+* 🌐 Networking
+* 🧩 Distributed systems
+
+---
+
+## 🛠️ Technologies
+
+### Languages
+
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff">
+<img align="center" alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-239120.svg?logo=cshrp&logoColor=white">
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff">
+
+### Frontend
+
+<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+<img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff">
+<img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=fff">
+
+### Backend
+
+<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff">
+<img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=fff">
+<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
+<img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff">
+
+### Databases
+
+<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff">
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+<img align="center" alt="SQL Server" src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=fff">
+<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff">
+
+### DevOps & Cloud
+
+<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+<img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff">
+<img align="center" alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff">
+<img align="center" alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff">
+<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000">
+
+---
+
+## 📌 Featured Projects
+
+### 💰 MonetizeMe
+
+A full-stack application focused on financial and business management.
+
+**Stack:** React · Spring Boot · PostgreSQL · Docker · AWS
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-60&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-60&layout=compact&theme=dracula&hide_border=true"/>
+
 </div>
-<br/>
 
+---
 
-## 🛠️ &nbsp; My activity 
+## 🌎 Find me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-60&show_icons=true&theme=radical)
+<p align="left">
+  <a href="https://dev.to/luis_carlos60">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white">
+  </a>
 
-## 💻 &nbsp;My Programming Languages Graphic
+  <a href="https://www.linkedin.com/in/luis-carlos-gon%C3%A7alves-hayashida-ferreira-da-costa-896303272/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-60&theme=dracula)](https://github.com/Luis-60/github-readme-stats)
+  <a href="mailto:luiscarlosghfc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-## 🏠 &nbsp; Where to find me:
+---
 
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/luis_carlos60)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-carlos-gon%C3%A7alves-hayashida-ferreira-da-costa-896303272/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luiscarlosghfc@gmail.com)
+<div align="center">
 
+### 💻 Build. Break. Learn. Repeat.
 
 </div>
-<br/>
 
